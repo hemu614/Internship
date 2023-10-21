@@ -1,0 +1,23 @@
+sr no	Ans
+21	a) 𝛽₀, 𝛽₁, …, 𝛽ᵣ are the regression coefficients.
+22	d) The value 𝑅² = 1, which corresponds to SSR = 0.
+23	b) B0
+24	c) The bottom-right plot
+25	b) e, d, b, a, c
+26	b) fit_intercept c) normalize d) copy_X e) n_jobs
+27	c) Polynomial regression
+28	c) You need more detailed results.
+29	b) Numpy
+30	b) Seaborn
+	
+41	d) Collinearity
+42	b) Random Forest
+43	c) Decision Tree are prone to overfit
+44	c) Training data
+45	c) Anomaly detection
+46	a) Support Vector
+47	d) Both a and b
+48	c) Both a and b
+49	b) 2
+50	a) PCA
+
